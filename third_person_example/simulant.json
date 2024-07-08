@@ -1,0 +1,9 @@
+{
+    "name": "third_person_example",
+    "package": "tld.domain.Third_Person_Example",
+    "executable": "third_person_example",
+    "description": "...",
+    "author": "...",
+    "license": "...",
+    "company": "third_person_example"
+}
